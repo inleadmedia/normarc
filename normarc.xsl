@@ -318,6 +318,11 @@
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
+	<xsl:for-each select="tmarc:sq">
+	  <pz:metadata type="title-explanation">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
       </xsl:for-each>
       
       <xsl:for-each select="tmarc:d245">
