@@ -761,49 +761,95 @@
 	</pz:metadata>
       </xsl:for-each>
 
-      <!-- OhioLINK holdings -->
-      <xsl:for-each select="tmarc:d945">
-	<pz:metadata type="locallocation" empty="PAZPAR2_NULL_VALUE">
-	  <xsl:value-of select="tmarc:sa"/>
-	</pz:metadata>
-	<pz:metadata type="callnumber" empty="PAZPAR2_NULL_VALUE">
-	  <xsl:value-of select="tmarc:sb"/>
-	</pz:metadata>
-	<pz:metadata type="publicnote" empty="PAZPAR2_NULL_VALUE">
-	  <xsl:value-of select="tmarc:sc"/>
-	</pz:metadata>
-	<pz:metadata type="available" empty="PAZPAR2_NULL_VALUE">
-          <xsl:choose>
-            <xsl:when test="tmarc:ss = 'N'">Available</xsl:when>
-            <xsl:otherwise>
-	      <xsl:value-of select="tmarc:sd"/>
-	    </xsl:otherwise>
-	  </xsl:choose>
-	</pz:metadata>
-      </xsl:for-each>
+    <!-- NorZIG holdings  -->
+    <xsl:for-each select="tmarc:d850">
+      <pz:metadata type="locallocation" empty="PAZPAR2_NULL_VALUE">
+        <xsl:value-of select="tmarc:sa"/>
+      </pz:metadata>
+      <pz:metadata type="locallocation-section" empty="PAZPAR2_NULL_VALUE">
+        <xsl:value-of select="tmarc:sb"/>
+      </pz:metadata>
+      <pz:metadata type="callnumber" empty="PAZPAR2_NULL_VALUE">
+        <xsl:value-of select="tmarc:sc"/>
+      </pz:metadata>
 
-      <xsl:for-each select="tmarc:d948">
-        <pz:metadata type="holding">
-          <xsl:for-each select="tmarc:s">
-            <xsl:if test="position() > 1">
-              <xsl:text> </xsl:text>
-            </xsl:if>
-            <xsl:value-of select="." />
-          </xsl:for-each>
+      <pz:metadata type="available" empty="PAZPAR2_NULL_VALUE">
+        <xsl:choose>
+          <!-- available-->
+          <xsl:when test="tmarc:sh = '0'">Available</xsl:when>
+          <!-- on loan -->
+          <xsl:when test="tmarc:sh = '4'">
+            <xsl:value-of select="tmarc:sy"/>
+          </xsl:when>
+        </xsl:choose>
+      </pz:metadata>
+
+      <pz:metadata type="circulation-status" empty="PAZPAR2_NULL_VALUE">
+        <xsl:choose>
+          <xsl:when test="tmarc:sh = '0'">Available</xsl:when>
+          <xsl:when test="tmarc:sh = '1'">ACirculation status undefined</xsl:when>
+          <xsl:when test="tmarc:sh = '2'">On order</xsl:when>
+          <xsl:when test="tmarc:sh = '3'">Not available; undefined</xsl:when>
+          <xsl:when test="tmarc:sh = '4'">On loan</xsl:when>
+          <xsl:when test="tmarc:sh = '5'">On loan and not available for recall until earliest recall date</xsl:when>
+          <xsl:when test="tmarc:sh = '6'">In process</xsl:when>
+          <xsl:when test="tmarc:sh = '7'">Recalled</xsl:when>
+          <xsl:when test="tmarc:sh = '8'">On hold</xsl:when>
+          <xsl:when test="tmarc:sh = '9'">Waiting to be made available</xsl:when>
+          <xsl:when test="tmarc:sh = '10'">In transit (between library locations)</xsl:when>
+          <xsl:when test="tmarc:sh = '11'">Claimed returned or never borrowed</xsl:when>
+          <xsl:when test="tmarc:sh = '12'">Lost</xsl:when>
+          <xsl:when test="tmarc:sh = '13'">Missing, being traced</xsl:when>
+          <xsl:when test="tmarc:sh = '14'">Supplied (i.e. return not required)</xsl:when>
+          <xsl:when test="tmarc:sh = '15'">In binding</xsl:when>
+          <xsl:when test="tmarc:sh = '16'">In repair</xsl:when>
+          <xsl:when test="tmarc:sh = '17'">Pending transfer</xsl:when>
+          <xsl:when test="tmarc:sh = '18'">Missing, overdue</xsl:when>
+          <xsl:when test="tmarc:sh = '19'">Withdrawn</xsl:when>
+          <xsl:when test="tmarc:sh = '20'">Weeded</xsl:when>
+          <xsl:when test="tmarc:sh = '21'">Unreserved</xsl:when>
+          <xsl:when test="tmarc:sh = '22'">Damaged</xsl:when>
+          <xsl:when test="tmarc:sh = '23'">Non circulating</xsl:when>
+          <xsl:when test="tmarc:sh = '24'">Other</xsl:when>
+        </xsl:choose>
+      </pz:metadata>
+
+      <pz:metadata type="circulation-restriction" empty="PAZPAR2_NULL_VALUE">
+        <xsl:choose>
+          <xsl:when test="tmarc:sh = '0'">Undetermined</xsl:when>
+
+          <xsl:when test="tmarc:sh = '1'">Not for loan</xsl:when>
+
+          <xsl:when test="tmarc:sh = '2'">In-library use only</xsl:when>
+
+          <xsl:when test="tmarc:sh = '3'">Overnight only</xsl:when>
+
+          <xsl:when test="tmarc:sh = '4'">Use only in controlled access room (i.e. rare book room)</xsl:when>
+
+          <xsl:when test="tmarc:sh = '5'">Renewals not permitted</xsl:when>
+
+          <xsl:when test="tmarc:sh = '6'">Circulation limited by user type, short loan period</xsl:when>
+
+          <xsl:when test="tmarc:sh = '7'">Circulation limited by user type, normal loan period</xsl:when>
+
+          <xsl:when test="tmarc:sh = '8'">Circulation limited by user type, long time period</xsl:when>
+
+          <xsl:when test="tmarc:sh = '9'">Term loan</xsl:when>
+
+          <xsl:when test="tmarc:sh = '10'">Semester loan</xsl:when>
+
+          <xsl:when test="tmarc:sh = '11'">Available for supply without return</xsl:when>
+
+          <xsl:when test="tmarc:sh = '12'">Not for ILL</xsl:when>
+
+          <xsl:when test="tmarc:sh = '13'">Not for User ILL</xsl:when>
+
+          </xsl:choose>
         </pz:metadata>
-      </xsl:for-each>
 
-      <xsl:for-each select="tmarc:d991">
-        <pz:metadata type="holding">
-          <xsl:for-each select="tmarc:s">
-            <xsl:if test="position() > 1">
-              <xsl:text> </xsl:text>
-            </xsl:if>
-            <xsl:value-of select="." />
-          </xsl:for-each>
-        </pz:metadata>
-      </xsl:for-each>
+    </xsl:for-each>
 
+ 
       <xsl:for-each select="tmarc:d999">
         <pz:metadata type="localid">
           <xsl:choose>
@@ -819,7 +865,6 @@
           </xsl:choose>
         </pz:metadata>
       </xsl:for-each>
-
 
       <!-- passthrough id data -->
       <xsl:for-each select="pz:metadata">
