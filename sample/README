@@ -1,0 +1,5 @@
+Use xsltproc to process sample files using the stylesheet:
+
+xsltproc ../normarc.xsl normarc/1234.xml
+
+xsltproc is part of the libxml utils.
