@@ -1,0 +1,6 @@
+Use ZOOMSH to execute the script files in this directory:
+
+zoomsh < *.sh
+
+
+ZOOMSH is part of the yaz toolkit.
