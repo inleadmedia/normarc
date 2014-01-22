@@ -1,0 +1,79 @@
+<r xmlns="http://www.indexdata.com/turbomarc">
+  <l>01024nam a2200277   4500</l>
+  <c000>     c</c000>
+  <c001>0584944</c001>
+  <c008>030409                a          00eng</c008>
+  <d015 i1=" " i2=" ">
+    <sa>790555</sa>
+    <sb>BibliofilID</sb>
+  </d015>
+  <d019 i1=" " i2=" ">
+    <sb>c</sb>
+  </d019>
+  <d020 i1=" " i2=" ">
+    <sa>0-7579-9273-0</sa>
+    <sb>h.</sb>
+    <sc>Nkr 195.00</sc>
+  </d020>
+  <d084 i1=" " i2=" ">
+    <sa>782.9</sa>
+    <sz>h</sz>
+    <s2>d</s2>
+  </d084>
+  <d090 i1=" " i2=" ">
+    <sa>a</sa>
+    <sb>q</sb>
+    <sc>782.9</sc>
+    <sd>Lor/1</sd>
+  </d090>
+  <d245 i1="1" i2="0">
+    <sa>The lord of the rings</sa>
+    <sn>[1]</sn>
+    <sp>The fellowship of the ring</sp>
+    <sh>musikktrykk</sh>
+  </d245>
+  <d260 i1=" " i2=" ">
+    <sa>[S.l.]</sa>
+    <sb>Warner</sb>
+    <sc>cop. 2002</sc>
+  </d260>
+  <d300 i1=" " i2=" ">
+    <sa>26 s.</sa>
+    <sc>30 cm</sc>
+  </d300>
+  <d500 i1=" " i2=" ">
+    <sa>For sang og klaver</sa>
+  </d500>
+  <d505 i1=" " i2=" ">
+    <sa>Innhold: An?ron (Theme for Aragorn and Arwen) ; The prophecy ; Many meetings ; Lament for Gandalf (featured in &quot;Lothlorien&quot; ) ; In dreams (featured in &quot;The breaking of the fellowship&quot;) ; May it be</sa>
+  </d505>
+  <d571 i1=" " i2=" ">
+    <sa>Edisjonsnummer: 0659B</sa>
+  </d571>
+  <d599 i1=" " i2=" ">
+    <sa>ga03</sa>
+  </d599>
+  <d599 i1=" " i2=" ">
+    <sa>xtas030409</sa>
+  </d599>
+  <d652 i1=" " i2=" ">
+    <sa>Filmmusikk</sa>
+  </d652>
+  <d740 i1=" " i2=" ">
+    <sa>Ringens brorskap</sa>
+  </d740>
+  <d740 i1=" " i2="0">
+    <sa>Ringenes herre</sa>
+  </d740>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Musikkavd.</sb>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T12:31+0100</sx>
+  </d850>
+  <d996 i1=" " i2=" ">
+    <su>http://www.deich.folkebibl.no/cgi-bin/websok?mode=p&amp;tnr=584944</su>
+    <st>local</st>
+  </d996>
+</r>

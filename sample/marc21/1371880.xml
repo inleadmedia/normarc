@@ -1,0 +1,355 @@
+<r xmlns="http://www.indexdata.com/turbomarc">
+<!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->
+  <l>05312nam a2201081 a 450 </l>
+  <c001>1371880</c001>
+  <c008>130607b                          1 nob  </c008>
+  <d015 i1=" " i2=" ">
+    <sa>0294162</sa>
+  </d015>
+  <d015 i1=" " i2=" ">
+    <sa>9777983</sa>
+  </d015>
+  <d020 i1=" " i2=" ">
+    <sa>978-82-03-35294-2 :</sa>
+    <sc>Nkr 379.00</sc>
+  </d020>
+  <d020 i1=" " i2=" ">
+    <sa>978-82-525-8170-6</sa>
+  </d020>
+  <d100 i1=" " i2=" ">
+    <sa>Nesbø, Jo,</sa>
+    <sd>1960-</sd>
+  </d100>
+  <d245 i1="1" i2="0">
+    <sa>Politi /</sa>
+    <sc>Jo Nesbø</sc>
+  </d245>
+  <d260 i1=" " i2=" ">
+    <sa>Oslo :</sa>
+    <sb>Aschehoug,</sb>
+    <sc>2013</sc>
+  </d260>
+  <d300 i1=" " i2=" ">
+    <sa>526 s.</sa>
+  </d300>
+  <d503 i1=" " i2=" ">
+    <sa>Frittstående forts. av: Gjenferd</sa>
+  </d503>
+  <d520 i1=" " i2=" ">
+    <sa>På åsteder for gamle, uoppklarte drap blir flere politimenn funnet drept på bestialsk vis. Politiet står uten spor, og mangler i tillegg sin beste etterforsker. På et sykehus, strengt bevoktet, ligger en hardt skadet mann i koma. Ingen får vite hva den mystiske pasienten heter.</sa>
+  </d520>
+  <d600 i1=" " i2=" ">
+    <sa>Hole, Harry,</sa>
+    <sc>fiktiv person</sc>
+  </d600>
+  <d655 i1=" " i2=" ">
+    <sa>Kriminal</sa>
+  </d655>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjerke filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjerke filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjerke filial</sb>
+    <sc>7dager-fbj</sc>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Furuset filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Furuset filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Furuset filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Furuset filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Furuset filial</sb>
+    <sc>HURTIGLÅN</sc>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Gamle Oslo filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Gamle Oslo filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Grünerløkka filial.</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Grünerløkka filial.</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+    <sc>HURTIGLÅN</sc>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+    <sc>HURTIGLÅN</sc>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nordtvet filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nordtvet filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nordtvet filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nordtvet filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nydalen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nydalen filial</sb>
+    <sc>Krim</sc>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Rikshospitalet</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Rikshospitalet</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Rikshospitalet</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Rikshospitalet</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Rommen filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Romsås filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Stovner filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Stovner filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Stovner filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Stovner filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d852 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Voksenavdelingen, Hovedbiblioteket</sb>
+  </d852>
+  <d999 i1=" " i2=" ">
+    <sA>NORMARC</sA>
+    <sB>020  $gBokklubben</sB>
+    <sC>Cited subfields from field 020 have no conversion to USMARC 020 </sC>
+    <sD>020  $a 978-82-525-8170-6</sD>
+  </d999>
+  <d999 i1=" " i2=" ">
+    <sA>NORMARC</sA>
+    <sB>019  $bl$dR</sB>
+    <sC>EXTENDED INFORMATION CODES</sC>
+    <sD>Field had no subfield $a</sD>
+  </d999>
+  <d999 i1=" " i2=" ">
+    <sA>NORMARC</sA>
+    <sB>100 0$jn.</sB>
+    <sC>Cited subfields from field 100 have no conversion to USMARC 100 </sC>
+    <sD>100 0$a Nesbø, Jo</sD>
+  </d999>
+</r>

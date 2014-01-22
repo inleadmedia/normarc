@@ -1,0 +1,103 @@
+<r xmlns="http://www.indexdata.com/turbomarc">
+  <l>01248nam a2200337   4500</l>
+  <c000>     c</c000>
+  <c001>0580246</c001>
+  <c008>021209                j          00eng</c008>
+  <d015 i1=" " i2=" ">
+    <sa>779379</sa>
+    <sb>BibliofilID</sb>
+  </d015>
+  <d019 i1=" " i2=" ">
+    <sb>gd</sb>
+  </d019>
+  <d020 i1=" " i2=" ">
+    <sc>Nkr 499.00</sc>
+  </d020>
+  <d082 i1="3" i2=" ">
+    <sa>793.93</sa>
+  </d082>
+  <d082 i1="3" i2=" ">
+    <sa>794.82</sa>
+    <sz>h</sz>
+    <s2>d</s2>
+  </d082>
+  <d090 i1=" " i2=" ">
+    <sa>gd</sa>
+    <sb>AVmul</sb>
+    <sc>794.8</sc>
+    <sd>Har</sd>
+  </d090>
+  <d245 i1="0" i2="0">
+    <sa>Harry Potter og mysteriekammeret</sa>
+    <sh>CD-ROM</sh>
+  </d245>
+  <d250 i1=" " i2=" ">
+    <sa>DVD[utg.]</sa>
+  </d250>
+  <d260 i1=" " i2=" ">
+    <sa>[s.l]</sa>
+    <sb>Electronic arts</sb>
+    <sc>2002</sc>
+  </d260>
+  <d300 i1=" " i2=" ">
+    <sa>1 CD-ROM-plate</sa>
+    <sb>lyd., kol.</sb>
+    <se>2 manualer</se>
+  </d300>
+  <d440 i1=" " i2=" ">
+    <sa>EA games</sa>
+  </d440>
+  <d500 i1=" " i2=" ">
+    <sa>Bilag: 2 hefter</sa>
+  </d500>
+  <d500 i1=" " i2=" ">
+    <sa>Systemkrav: Windows 95/98/2000/ME/XP</sa>
+  </d500>
+  <d503 i1=" " i2=" ">
+    <sa>Bygger p?: Harry Potter og mysteriekammeret / J.K. Rowling</sa>
+  </d503>
+  <d520 i1=" " i2=" ">
+    <sa>Som Harry Potter skal du utforske Galtvort og l?se g?ten i hjertet av mysteriekammeret. Du kan velge ? spille p? norsk eller engelsk</sa>
+  </d520>
+  <d521 i1=" " i2=" ">
+    <sa>Aler: 10 ?r-]</sa>
+  </d521>
+  <d599 i1=" " i2=" ">
+    <sa>02x1209?S f02</sa>
+  </d599>
+  <d655 i1=" " i2="2">
+    <sa>Dataspill</sa>
+    <sx>Action</sx>
+    <s1>794.82</s1>
+    <s6>794.8 z</s6>
+  </d655>
+  <d655 i1=" " i2="2">
+    <sa>Dataspill</sa>
+    <sx>Fantasy</sx>
+    <s1>793.93</s1>
+    <s6>794.8 z</s6>
+  </d655>
+  <d655 i1=" " i2="2">
+    <sa>Dataspill</sa>
+    <sx>PC</sx>
+  </d655>
+  <d700 i1=" " i2=" ">
+    <sa>Rowling, J.K.</sa>
+    <sd>1965-</sd>
+    <sj>eng.</sj>
+    <s1>820</s1>
+    <st>Harry Potter og mysteriekammeret</st>
+  </d700>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjerke filial</sb>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T12:18+0100</sx>
+  </d850>
+  <d996 i1=" " i2=" ">
+    <su>http://www.deich.folkebibl.no/cgi-bin/websok?mode=p&amp;tnr=580246</su>
+    <st>local</st>
+  </d996>
+</r>
+
