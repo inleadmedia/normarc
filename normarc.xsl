@@ -186,6 +186,11 @@
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
+	<xsl:for-each select="tmarc:sc">
+	  <pz:metadata type="price">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
       </xsl:for-each>
 
       <xsl:for-each select="tmarc:d022">
