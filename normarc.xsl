@@ -369,6 +369,14 @@
 	</xsl:if>
       </xsl:for-each>
 
+      <xsl:for-each select="tmarc:d574">
+	<xsl:for-each select="tmarc:sa">
+	  <pz:metadata type="title-original">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
+      </xsl:for-each>
+
       <xsl:for-each select="tmarc:d250">
 	<xsl:for-each select="tmarc:sa">
 	  <pz:metadata type="edition">
