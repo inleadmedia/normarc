@@ -478,6 +478,14 @@
         </pz:metadata>
       </xsl:for-each>
 
+      <xsl:for-each select="tmarc:d533">
+        <pz:metadata type="note-physical-description">
+          <xsl:for-each select="node()">
+            <xsl:value-of select="text()" />
+          </xsl:for-each>
+        </pz:metadata>
+      </xsl:for-each>
+
       <xsl:for-each select="tmarc:d571">
         <pz:metadata type="note-number">
           <xsl:for-each select="node()">
