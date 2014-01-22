@@ -27,7 +27,7 @@
   <xsl:template match="tmarc:r">
     <xsl:variable name="title_medium" select="tmarc:d245/tmarc:sh" />
     <xsl:variable name="journal_title" select="tmarc:d773/tmarc:st" />
-    <xsl:variable name="electronic_location_url" select="tmarc:d856/tmarc:su" />
+    <xsl:variable name="electronic_location_url" select="tmarc:d856/tmarc:sg" />
     <xsl:variable name="fulltext_a" select="tmarc:d900/tmarc:sa" />
     <xsl:variable name="fulltext_b" select="tmarc:d900/tmarc:sb" />
     <!-- Does not always hit the right substring. The field is not always fixed-width? -->
@@ -186,6 +186,11 @@
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
+	<xsl:for-each select="tmarc:sc">
+	  <pz:metadata type="price">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
       </xsl:for-each>
 
       <xsl:for-each select="tmarc:d022">
@@ -318,6 +323,11 @@
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
+	<xsl:for-each select="tmarc:sq">
+	  <pz:metadata type="title-explanation">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
       </xsl:for-each>
       
       <xsl:for-each select="tmarc:d245">
@@ -357,6 +367,14 @@
 	    <xsl:if test="tmarc:sb" ><xsl:value-of select="concat(' ', tmarc:sb)" /></xsl:if>
 	  </pz:metadata>
 	</xsl:if>
+      </xsl:for-each>
+
+      <xsl:for-each select="tmarc:d574">
+	<xsl:for-each select="tmarc:sa">
+	  <pz:metadata type="title-original">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
       </xsl:for-each>
 
       <xsl:for-each select="tmarc:d250">
@@ -429,6 +447,11 @@
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
+	<xsl:for-each select="tmarc:sv">
+	  <pz:metadata type="series-number">
+	    <xsl:value-of select="." />
+	  </pz:metadata>
+	</xsl:for-each>
       </xsl:for-each>
 
       <xsl:for-each select="tmarc:d500">
@@ -455,8 +478,16 @@
         </pz:metadata>
       </xsl:for-each>
 
-      <xsl:for-each select="tmarc:d911">
-        <pz:metadata type="description">
+      <xsl:for-each select="tmarc:d533">
+        <pz:metadata type="note-physical-description">
+          <xsl:for-each select="node()">
+            <xsl:value-of select="text()" />
+          </xsl:for-each>
+        </pz:metadata>
+      </xsl:for-each>
+
+      <xsl:for-each select="tmarc:d571">
+        <pz:metadata type="note-number">
           <xsl:for-each select="node()">
             <xsl:value-of select="text()" />
           </xsl:for-each>
@@ -464,9 +495,10 @@
       </xsl:for-each>
 
       <xsl:for-each select="tmarc:d600 | tmarc:d610 | tmarc:d611 | tmarc:d630 |
-                            tmarc:d648 | tmarc:d650 | tmarc:d651 | tmarc:d653 |
-                            tmarc:d654 | tmarc:d655 | tmarc:d656 | tmarc:d657 |
-                            tmarc:d658 | tmarc:d662 | tmarc:d69X">
+                            tmarc:d640 | tmarc:d648 | tmarc:d650 | tmarc:d651 |
+                            tmarc:d653 | tmarc:d652 | tmarc:d654 | tmarc:d655 |
+                            tmarc:d656 | tmarc:d657 | tmarc:d658 | tmarc:d662 |
+                            tmarc:d69X">
 	<xsl:for-each select="tmarc:sa">
 	  <pz:metadata type="subject">
 	    <xsl:value-of select="."/>
@@ -493,16 +525,13 @@
       </xsl:for-each>
 
       <xsl:for-each select="tmarc:d856">
-	<xsl:for-each select="tmarc:su">
+	<xsl:for-each select="tmarc:sg">
 	  <pz:metadata type="electronic-url">
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
         <pz:metadata type="electronic-text">
 	  <xsl:choose>
-	    <xsl:when test="tmarc:sy">
-	      <xsl:value-of select="tmarc:sy/text()" />
-	    </xsl:when>
 	    <xsl:when test="tmarc:s3">
 	      <xsl:value-of select="tmarc:s3/text()" />
 	    </xsl:when>
@@ -514,11 +543,6 @@
         </pz:metadata>
 	<xsl:for-each select="tmarc:sz">
 	  <pz:metadata type="electronic-note">
-	    <xsl:value-of select="." />
-	  </pz:metadata>
-	</xsl:for-each>
-	<xsl:for-each select="tmarc:si">
-	  <pz:metadata type="electronic-format-instruction">
 	    <xsl:value-of select="." />
 	  </pz:metadata>
 	</xsl:for-each>
