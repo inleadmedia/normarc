@@ -1,0 +1,676 @@
+<r xmlns="http://www.indexdata.com/turbomarc">
+  <l>07669nam a2201201   4500</l>
+  <c000>     c</c000>
+  <c001>0823184</c001>
+  <c008>081029                j          10nob 2</c008>
+  <d015 i1=" " i2=" ">
+    <sa>0216185</sa>
+    <sb>BIBBI</sb>
+  </d015>
+  <d015 i1=" " i2=" ">
+    <sa>998478</sa>
+    <sb>BibliofilID</sb>
+  </d015>
+  <d019 i1=" " i2=" ">
+    <sa>mu</sa>
+    <sb>l</sb>
+    <sd>R</sd>
+    <se>td</se>
+  </d019>
+  <d020 i1=" " i2=" ">
+    <sa>978-82-05-38398-2</sa>
+    <sb>ib.</sb>
+    <sc>Nkr 349.00</sc>
+  </d020>
+  <d020 i1=" " i2=" ">
+    <sa>978-82-05-39547-3</sa>
+    <sb>h.</sb>
+    <sg>2009</sg>
+  </d020>
+  <d041 i1=" " i2=" ">
+    <sh>eng</sh>
+  </d041>
+  <d090 i1=" " i2=" ">
+    <sa>u</sa>
+    <sd>Col</sd>
+  </d090>
+  <d100 i1=" " i2="0">
+    <sa>Collins, Suzanne</sa>
+    <sd>1962-</sd>
+    <sj>am.</sj>
+    <s1>813</s1>
+    <s6>810 x</s6>
+  </d100>
+  <d240 i1="1" i2="0">
+    <sa>The hunger games</sa>
+  </d240>
+  <d245 i1="1" i2="0">
+    <sa>Dødslekene</sa>
+    <sc>Suzanne Collins ; oversatt av Torleif Sjøgren-Erichsen</sc>
+  </d245>
+  <d260 i1=" " i2=" ">
+    <sa>[Oslo]</sa>
+    <sb>Gyldendal</sb>
+    <sc>2008</sc>
+  </d260>
+  <d300 i1=" " i2=" ">
+    <sa>452 s.</sa>
+  </d300>
+  <d440 i1=" " i2="0">
+    <sa>Dødslekene</sa>
+    <sv>1</sv>
+  </d440>
+  <d503 i1=" " i2=" ">
+    <sa>Forts. i: Opp i flammer</sa>
+  </d503>
+  <d574 i1=" " i2=" ">
+    <sa>Originaltittel: The hunger games</sa>
+  </d574>
+  <d590 i1=" " i2=" ">
+    <sa>08-uke43j</sa>
+  </d590>
+  <d599 i1=" " i2=" ">
+    <sa>08x1029ÅS</sa>
+  </d599>
+  <d692 i1=" " i2="2">
+    <sa>Dystopier</sa>
+    <sx>Fortellinger</sx>
+  </d692>
+  <d692 i1=" " i2="2">
+    <sa>Framtidssamfunn</sa>
+    <sx>USA</sx>
+    <sx>Fortellinger</sx>
+  </d692>
+  <d692 i1=" " i2="2">
+    <sa>Overlevelse</sa>
+    <sx>Katastrofer</sx>
+    <sx>Fortellinger</sx>
+  </d692>
+  <d692 i1=" " i2="2">
+    <sa>TV</sa>
+    <sx>Reality-TV</sx>
+    <sx>Fortellinger</sx>
+  </d692>
+  <d693 i1=" " i2=" ">
+    <sa>Fantastisk</sa>
+  </d693>
+  <d693 i1=" " i2=" ">
+    <sa>Science fiction</sa>
+  </d693>
+  <d693 i1=" " i2=" ">
+    <sa>Spenning</sa>
+  </d693>
+  <d694 i1=" " i2=" ">
+    <sa>Konkurranser</sa>
+  </d694>
+  <d694 i1=" " i2=" ">
+    <sa>Reality-TV</sa>
+  </d694>
+  <d694 i1=" " i2=" ">
+    <sa>Sterke jenter</sa>
+  </d694>
+  <d699 i1=" " i2="2">
+    <sa>Fantastisk</sa>
+    <s2>BS</s2>
+    <s9>nno</s9>
+  </d699>
+  <d700 i1=" " i2="0">
+    <sa>Sjøgren-Erichsen, Torleif</sa>
+    <sd>1958-</sd>
+    <sj>n.</sj>
+    <se>overs.</se>
+  </d700>
+  <d785 i1=" " i2="0">
+    <st>Opp i flammer</st>
+    <sw>885887</sw>
+  </d785>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-12-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-05</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-12</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-14</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-18</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Barne- og ungdomsavdelingen</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-18</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjerke filial</sb>
+    <sc>Ung</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sc>FANTASY</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sc>FANTASY</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-13</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+    <sc>FANTASY</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-03</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-18</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bøler filial</sb>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-10</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Furuset filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-12</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Gamle Oslo filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Gamle Oslo filial</sb>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-06</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+    <sc>Spenning</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-27</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>10</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+    <sf>9</sf>
+    <sh>10</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Holmlia filial</sb>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-18</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>10</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Lambertseter filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-31</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-14</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-24</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Majorstuen filial</sb>
+    <sc>UNGkrim</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-13</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nydalen filial</sb>
+    <sc>SF/Fantasy</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-11</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-12</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Rommen filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>10</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Romsås filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-14</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+    <sc>Sci</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+    <sc>Sci</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-03</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+    <sc>Science Fi</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-10</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+    <sc>Science Fi</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Røa filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-21</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-21</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Skoleavdelingen</sb>
+    <sc>10.kl-R97</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-21</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-12-11</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sc>Fantasy</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-17</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-05</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Smestad filial</sb>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Stovner filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Stovner filial</sb>
+    <sc>UNG</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-01-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+    <sc>Ung</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+    <sc>Ung</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+    <sc>Ung</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+    <sc>Ung</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Torshov filial</sb>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d996 i1=" " i2=" ">
+    <su>http://www.deich.folkebibl.no/cgi-bin/websok?mode=p&amp;tnr=823184</su>
+    <st>local</st>
+  </d996>
+</r>

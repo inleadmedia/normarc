@@ -1,0 +1,3739 @@
+
+<r xmlns="http://www.indexdata.com/turbomarc">
+  <l>48880nam a2205245   4500</l>
+  <c000>     c</c000>
+  <c001>0804689</c001>
+  <c008>080612                a          00nob</c008>
+  <d015 i1=" " i2=" ">
+    <sa>981613</sa>
+    <sb>BibliofilID</sb>
+  </d015>
+  <d019 i1=" " i2=" ">
+    <sb>l</sb>
+    <sd>L</sd>
+  </d019>
+  <d020 i1=" " i2=" ">
+    <sa>978-82-03-33320-0</sa>
+    <sb>h.</sb>
+  </d020>
+  <d082 i1="3" i2=" ">
+    <sa>796.07</sa>
+    <s2>5</s2>
+  </d082>
+  <d082 i1="3" i2=" ">
+    <sa>796.071</sa>
+    <sz>h</sz>
+    <s2>d</s2>
+  </d082>
+  <d090 i1=" " i2=" ">
+    <sc>796.071</sc>
+    <sd>Ber</sd>
+  </d090>
+  <d100 i1=" " i2="0">
+    <sa>Bergsjø, Carl-Henrik</sa>
+    <sj>n.</sj>
+  </d100>
+  <d245 i1="1" i2="0">
+    <sa>Spinn</sa>
+    <sb>kroppsøving for den videregående skolen</sb>
+    <sc>Carl-Henrik Bergsjø, Ingvild Kvikstad</sc>
+  </d245>
+  <d260 i1=" " i2=" ">
+    <sa>[Oslo]</sa>
+    <sb>Aschehoug</sb>
+    <sc>2007</sc>
+  </d260>
+  <d300 i1=" " i2=" ">
+    <sa>223 s.</sa>
+    <sb>kol. ill.</sb>
+    <sc>tv.</sc>
+  </d300>
+  <d500 i1=" " i2=" ">
+    <sa>Spiralrygg</sa>
+  </d500>
+  <d599 i1=" " i2=" ">
+    <sa>08x0612gb f0806</sa>
+  </d599>
+  <d650 i1=" " i2="1">
+    <sa>Kroppsøving</sa>
+    <sx>Lærebøker</sx>
+    <s1>796.071</s1>
+    <s4>d5</s4>
+    <s6>796.41 z, 371.73 z</s6>
+  </d650>
+  <d650 i1=" " i2="2">
+    <sa>Idrett</sa>
+    <sx>Trening</sx>
+    <s1>796</s1>
+    <s4>d5</s4>
+    <s6>796.07, 796.4 z</s6>
+  </d650>
+  <d655 i1=" " i2="2">
+    <sa>Lærebøker for videregående skole</sa>
+    <sx>Kroppsøving</sx>
+  </d655>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>3</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2012-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-07-02</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-09-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-09-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-09-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-11-25</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2013-12-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt Skole Læremidler</sb>
+    <sc>BJØRNHOLT</sc>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sc>DAGSLÅN</sc>
+    <sf>2</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-02-11</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Bjørnholt bibliotek</sb>
+    <sf>9</sf>
+    <sh>4</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+    <sy>2014-06-30</sy>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Nydalen filial</sb>
+    <sc>Sport</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-22T15:44+0100</sx>
+  </d850>
+  <d996 i1=" " i2=" ">
+    <su>http://www.deich.folkebibl.no/cgi-bin/websok?mode=p&amp;tnr=804689</su>
+    <st>local</st>
+  </d996>
+</r>
