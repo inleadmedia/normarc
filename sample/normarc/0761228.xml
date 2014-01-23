@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<r xmlns="http://www.indexdata.com/turbomarc">
+  <l>00890nam a2200265   4500</l>
+  <c000>     c</c000>
+  <c001>0761228</c001>
+  <c008>070815                a          00</c008>
+  <d015 i1=" " i2=" ">
+    <sa>943174</sa>
+    <sb>BibliofilID</sb>
+  </d015>
+  <d019 i1=" " i2=" ">
+    <sb>dc,dg</sb>
+  </d019>
+  <d084 i1=" " i2=" ">
+    <sa>C</sa>
+  </d084>
+  <d090 i1=" " i2=" ">
+    <sa>dc</sa>
+    <sc>C</sc>
+    <sd>Har</sd>
+  </d090>
+  <d245 i1="0" i2="0">
+    <sa>Harry Potter and the chamber of secrets</sa>
+    <sc>music composed by John Williams</sc>
+    <sh>lydopptak</sh>
+  </d245>
+  <d260 i1=" " i2=" ">
+    <sa>New York</sa>
+    <sb>Warner</sb>
+    <sc>2002</sc>
+  </d260>
+  <d300 i1=" " i2=" ">
+    <sa>1 kompaktplate (71 min)</sa>
+    <sb>digital</sb>
+  </d300>
+  <d500 i1=" " i2=" ">
+    <sa>Tilvekstnummer: t07-3034</sa>
+  </d500>
+  <d571 i1=" " i2=" ">
+    <sa>Warner: 7567-83574-2</sa>
+  </d571>
+  <d599 i1=" " i2=" ">
+    <sa>ga07-aug</sa>
+  </d599>
+  <d599 i1=" " i2=" ">
+    <sa>xacj070815</sa>
+  </d599>
+  <d652 i1=" " i2=" ">
+    <sa>Filmmusikk</sa>
+  </d652>
+  <d700 i1=" " i2=" ">
+    <sa>Williams, John</sa>
+    <sj>am.</sj>
+    <sd>1932-</sd>
+  </d700>
+  <d740 i1=" " i2=" ">
+    <sa>Harry Potter</sa>
+  </d740>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Musikkavd.</sb>
+    <sc>t07-3034</sc>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-23T16:23+0100</sx>
+  </d850>
+  <d850 i1=" " i2=" ">
+    <sa>Deichmanske bibliotek</sa>
+    <sb>Oppsal filial</sb>
+    <sf>9</sf>
+    <sh>0</sh>
+    <sx>2014-01-23T16:23+0100</sx>
+  </d850>
+  <d996 i1=" " i2=" ">
+    <su>http://www.deich.folkebibl.no/cgi-bin/websok?mode=p&amp;tnr=761228</su>
+    <st>local</st>
+  </d996>
+</r>
