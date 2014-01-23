@@ -9,10 +9,7 @@
     encoding="UTF-8" />
   <xsl:param name="medium"/>
 
-  <!-- Extract metadata from MARC21/USMARC from streamlined marcxml format 
-    http://www.loc.gov/marc/bibliographic/ecbdhome.html -->
   <xsl:template name="record-hook" />
-
 
   <xsl:template match="/">
       <xsl:apply-templates />
@@ -24,7 +21,139 @@
     </collection>
   </xsl:template>
 
+  <!-- NORMARC material type parsing follows -->
+  <xsl:template name="parse-normarc-material">
+    <xsl:param name="list" />
+    <xsl:variable name="cdr" select="substring-after($list, ',')" />
+    <xsl:variable name="car">
+      <xsl:choose>
+        <xsl:when test="$cdr">
+          <xsl:value-of select="substring-before($list, ',')"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="$list"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+
+    <xsl:choose>
+      <!-- Kartografisk materiale -->
+      <xsl:when test="$car = 'a'">map</xsl:when>
+      <!-- Atlas -->
+      <xsl:when test="$car = 'ab'">atlas</xsl:when>
+      <!-- Kart -->
+      <xsl:when test="$car = 'aj'">map</xsl:when>
+      <!-- Manuskripter -->
+      <xsl:when test="$car = 'b'">manuscript</xsl:when>
+      <!-- Musiktrykk -->
+      <xsl:when test="$car = 'c'">music-score</xsl:when>
+      <!-- Lydopptak -->
+      <xsl:when test="$car = 'd'">recording</xsl:when>
+      <!-- Grammofonplate -->
+      <xsl:when test="$car = 'da'">recording-vinyl</xsl:when>
+      <!-- Kassett -->
+      <xsl:when test="$car = 'db'">recording-casette</xsl:when>
+      <!-- Kompaktplatte -->
+      <xsl:when test="$car = 'dc'">recording-cd</xsl:when>
+      <!-- Avspiller med lydfil (f.eks. Digibøker)  -->
+      <xsl:when test="$car = 'dd'">recording-digital</xsl:when>
+      <!-- Digikort (til Digispiller) -->
+      <xsl:when test="$car = 'de'">recording-digital</xsl:when>
+      <!-- Musikk -->
+      <xsl:when test="$car = 'dg'">recording-music</xsl:when>
+      <!-- Språkkurs -->
+      <xsl:when test="$car = 'dh'">recording-languagecourse</xsl:when>
+      <!-- Lydbok -->
+      <xsl:when test="$car = 'di'">recording-audiobook</xsl:when>
+      <!-- Annen tale/annet -->
+      <xsl:when test="$car = 'dj'">recording-other</xsl:when>
+      <!-- Kombidokument -->
+      <xsl:when test="$car = 'dk'">recording-mixed</xsl:when>
+      <!-- Film -->
+      <xsl:when test="$car = 'e'">video</xsl:when>
+      <!-- Filmspole -->
+      <xsl:when test="$car = 'ec'">video-film</xsl:when>
+      <!-- Videokassett (VHS)  -->
+      <xsl:when test="$car = 'ed'">video-vhs</xsl:when>
+      <!-- Videoplate (DVD)  -->
+      <xsl:when test="$car = 'ee'">video-dvd</xsl:when>
+      <!-- Blu-ray-plate -->
+      <xsl:when test="$car = 'ef'">video-bluray</xsl:when>
+      <!-- 3D -->
+      <xsl:when test="$car = 'eg'">video-3d</xsl:when>
+      <!-- Grafisk materiale -->
+      <xsl:when test="$car = 'f'">image</xsl:when>
+      <!-- Dias -->
+      <xsl:when test="$car = 'fd'">image-slide</xsl:when>
+      <!-- Fotografi  -->
+      <xsl:when test="$car = 'ff'">image-photo</xsl:when>
+      <!-- Kunstreproduksjon -->
+      <xsl:when test="$car = 'fi'">image-reproduction</xsl:when>
+      <!-- Elektroniske ressurser -->
+      <xsl:when test="$car = 'g'">electronic</xsl:when>
+      <!-- Diskett -->
+      <xsl:when test="$car = 'gb'">electronic-diskette</xsl:when>
+      <!-- DVD-ROM -->
+      <xsl:when test="$car = 'gc'">electronic-dvd</xsl:when>
+      <!-- CD-ROM (tidl.: optiske lagringsmedia) -->
+      <xsl:when test="$car = 'gd'">electronic-cd</xsl:when>
+      <!-- Nettressurser -->
+      <xsl:when test="$car = 'ge'">web</xsl:when>
+      <!-- Lagringsbrikke -->
+      <xsl:when test="$car = 'gf'">electronic-memorycard</xsl:when>
+      <!-- Blu-ray ROM -->
+      <xsl:when test="$car = 'gg'">electronic-bluray</xsl:when>
+      <!-- UMD (Universal Media Disc, for Sony PSP) -->
+      <xsl:when test="$car = 'gh'">electronic-umd</xsl:when>
+      <!-- Wii-plate -->
+      <xsl:when test="$car = 'gi'">electronic-wii</xsl:when>
+      <!-- DTBok -->
+      <xsl:when test="$car = 'gt'">electronic-dt</xsl:when>
+      <!-- Tredimensjonale gjenstander -->
+      <xsl:when test="$car = 'h'">object</xsl:when>
+      <!-- Mikroformer -->
+      <xsl:when test="$car = 'i'">microform</xsl:when>
+      <!-- Mikrofilmspole -->
+      <xsl:when test="$car = 'ib'">microform</xsl:when>
+      <!-- Mikrofilmkort -->
+      <xsl:when test="$car = 'ic'">microform</xsl:when> 
+      <!-- Periodika -->
+      <xsl:when test="$car = 'j'">journal</xsl:when> 
+      <!-- Artikler (i bøker og periodika) -->
+      <xsl:when test="$car = 'k'">article</xsl:when> 
+      <!-- Fysiske bøker -->
+      <xsl:when test="$car = 'l'">book</xsl:when> 
+      <!-- Dataspill (koden kan ikke brukes alene) -->
+      <xsl:when test="$car = 'm'">game</xsl:when> 
+      <!-- PC-spill -->
+      <xsl:when test="$car = 'ma'">game-pc</xsl:when> 
+      <!-- Playstation 2 -->
+      <xsl:when test="$car = 'mb'">game-ps2</xsl:when> 
+      <!-- Playstation 3 -->
+      <xsl:when test="$car = 'mc'">game-ps3</xsl:when> 
+      <!-- Playstation Portable -->
+      <xsl:when test="$car = 'md'">game-psp</xsl:when> 
+      <!-- Xbox -->
+      <xsl:when test="$car = 'mi'">game-xbox</xsl:when> 
+      <!-- Xbox 360 -->
+      <xsl:when test="$car = 'mj'">game-xbox360</xsl:when> 
+      <!-- Nintendo DS -->
+      <xsl:when test="$car = 'mn'">game-ds</xsl:when> 
+      <!-- Nintendo Wii -->
+      <xsl:when test="$car = 'mo'">game-wii</xsl:when> 
+    </xsl:choose>
+    <xsl:if test="$cdr != ''">
+      <xsl:text>,</xsl:text>
+      <xsl:call-template name="parse-normarc-material">
+        <xsl:with-param name="list" select="$cdr"/>
+      </xsl:call-template>
+    </xsl:if>
+  </xsl:template>
+  <!-- NORMARC material parsing ends -->
+
   <xsl:template match="tmarc:r">
+
+    <!-- MK media type detection follows -->
     <xsl:variable name="title_medium" select="tmarc:d245/tmarc:sh" />
     <xsl:variable name="journal_title" select="tmarc:d773/tmarc:st" />
     <xsl:variable name="electronic_location_url" select="tmarc:d856/tmarc:sg" />
@@ -50,7 +179,7 @@
       <xsl:choose>
         <xsl:when test="$form1='s' or $form1='q' or $form1='o' or
 	   $form2='s' or $form2='q' or $form2='o'">
-	   <xsl:text>yes</xsl:text>
+       <!--<xsl:text>yes</xsl:text>-->
 	</xsl:when>
 	<xsl:otherwise/>
       </xsl:choose>
@@ -148,17 +277,16 @@
       </xsl:choose>
     </xsl:variable>
 
+    <!-- MK media type detection ends -->
+
     <pz:record>
-<!--
-      <xsl:attribute name="mergekey">
-    <xsl:text>title </xsl:text>
-  <xsl:value-of select="tmarc:d245/tmarc:sa" />
-  <xsl:text> author </xsl:text>
-  <xsl:value-of select="tmarc:d100/tmarc:sa" />
-  <xsl:text> medium </xsl:text>
-  <xsl:value-of select="$medium" />
-    </xsl:attribute>
-  -->
+
+      <pz:metadata type="normarc-material">
+        <xsl:call-template name="parse-normarc-material">
+          <xsl:with-param name="list" select="tmarc:d019/tmarc:sb" />
+        </xsl:call-template>
+      </pz:metadata>
+
 
       <xsl:for-each select="tmarc:c001">
         <pz:metadata type="id">
@@ -872,7 +1000,7 @@
       </xsl:for-each>
 
       <!-- other stylesheets importing this might want to define this -->
-	<xsl:call-template name="record-hook" />
+      <!--<xsl:call-template name="record-hook" />-->
 
     </pz:record>
   </xsl:template>
