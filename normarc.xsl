@@ -179,7 +179,7 @@
       <xsl:choose>
         <xsl:when test="$form1='s' or $form1='q' or $form1='o' or
 	   $form2='s' or $form2='q' or $form2='o'">
-       <!--<xsl:text>yes</xsl:text>-->
+       <xsl:text>yes</xsl:text>
 	</xsl:when>
 	<xsl:otherwise/>
       </xsl:choose>
@@ -1000,7 +1000,7 @@
       </xsl:for-each>
 
       <!-- other stylesheets importing this might want to define this -->
-      <!--<xsl:call-template name="record-hook" />-->
+      <xsl:call-template name="record-hook" />
 
     </pz:record>
   </xsl:template>
