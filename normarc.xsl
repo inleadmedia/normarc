@@ -254,7 +254,7 @@
     </xsl:variable>
     <!-- MK media type detection ends -->
     <pz:record>
-      <pz:metadata type="normarc-material">
+      <pz:metadata type="title-medium">
         <xsl:call-template name="parse-normarc-material">
           <xsl:with-param name="list" select="tmarc:d019/tmarc:sb"/>
         </xsl:call-template>
@@ -437,11 +437,15 @@
             <xsl:value-of select="."/>
           </pz:metadata>
         </xsl:for-each>
+        <!-- 
+             this is commented out because we temporarily use this field
+             for the NORMARC mattype from 019
         <xsl:for-each select="tmarc:sh">
           <pz:metadata type="title-medium">
             <xsl:value-of select="."/>
           </pz:metadata>
         </xsl:for-each>
+        -->
         <xsl:for-each select="tmarc:sn">
           <pz:metadata type="title-number-section">
             <xsl:value-of select="."/>
