@@ -170,6 +170,7 @@
         <xsl:otherwise/>
       </xsl:choose>
     </xsl:variable>
+    <!-- UNUSED
     <xsl:variable name="vmedium">
       <xsl:choose>
         <xsl:when test="string-length($medium)">
@@ -207,7 +208,6 @@
         <xsl:when test="$typeofrec='c' or $typeofrec='d'">music-score</xsl:when>
         <xsl:when test="$form1='a' or $form1='b' or $form1='c'">microform</xsl:when>
         <xsl:when test="$typeofrec='t'">thesis</xsl:when>
-        <!-- <xsl:when test="$journal_title">article</xsl:when> -->
         <xsl:when test="$typeofrec='a' or $typeofrec='i' and      ($typeofserial='d' or $typeofserial='w')">web</xsl:when>
         <xsl:when test="$typeofrec='a' and $biblevel='b'">article</xsl:when>
         <xsl:when test="$typeofrec='m'">electronic</xsl:when>
@@ -216,6 +216,7 @@
         </xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
+    -->
     <xsl:variable name="has_fulltext">
       <xsl:choose>
         <xsl:when test="tmarc:d856/tmarc:sq">
@@ -724,12 +725,6 @@
           </pz:metadata>
         </xsl:if>
       </xsl:for-each>
-      <pz:metadata type="medium">
-        <xsl:value-of select="$vmedium"/>
-        <xsl:if test="string-length($electronic) and $vmedium != 'electronic'">
-          <xsl:text> (electronic)</xsl:text>
-        </xsl:if>
-      </pz:metadata>
       <xsl:for-each select="tmarc:d900/tmarc:sa">
         <pz:metadata type="fulltext">
           <xsl:value-of select="."/>
