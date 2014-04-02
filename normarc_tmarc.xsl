@@ -266,6 +266,15 @@
           <xsl:value-of select="."/>
         </pz:metadata>
       </xsl:for-each>
+
+      <xsl:for-each select="tmarc:d015">
+        <xsl:if test="tmarc:sb = 'BibliofilID'">
+          <pz:metadata type="bibliofil-id">
+            <xsl:value-of select="tmarc:sa"/>
+          </pz:metadata>
+        </xsl:if>
+      </xsl:for-each>
+
       <xsl:if test="string-length($oclc_number) &gt; 0">
         <pz:metadata type="oclc-number">
           <xsl:value-of select="$oclc_number"/>
