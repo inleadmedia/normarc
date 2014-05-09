@@ -612,7 +612,7 @@
         </pz:metadata>
       </xsl:for-each>
       <xsl:for-each select="tmarc:d856">
-        <xsl:for-each select="tmarc:sg">
+        <xsl:for-each select="tmarc:su">
           <pz:metadata type="electronic-url">
             <xsl:value-of select="."/>
           </pz:metadata>
