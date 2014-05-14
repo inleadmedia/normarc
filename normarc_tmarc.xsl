@@ -284,11 +284,22 @@
       </xsl:choose>
     </xsl:variable>
     <!-- MK media type detection ends -->
+    <!-- NORMARC specific variables follow -->
+    <xsl:variable name="audience" select="substring(tmarc:c008, 23, 1)"/>
     <pz:record>
 
       <xsl:call-template name="parse-normarc-material">
         <xsl:with-param name="list" select="tmarc:d019/tmarc:sb"/>
       </xsl:call-template>
+
+      <xsl:if test="string-length($audience) &gt; 0">
+        <pz:metadata type="audience">
+          <xsl:choose>
+            <xsl:when test="$audience = 'j'">children</xsl:when>
+            <xsl:when test="$audience = 'a'">adults</xsl:when>
+          </xsl:choose>
+        </pz:metadata>
+      </xsl:if>
 
       <xsl:for-each select="tmarc:c001">
         <pz:metadata type="id">
