@@ -59,6 +59,16 @@
         <xsl:when test="$car = 'dj'">recording-other</xsl:when>
         <!-- Kombidokument -->
         <xsl:when test="$car = 'dk'">recording-mixed</xsl:when>
+        <!-- SACD -->
+        <xsl:when test="$car = 'dl'">recording-sacd</xsl:when>
+        <!-- DVD-Audio -->
+        <xsl:when test="$car = 'dm'">recording-dvda</xsl:when>
+        <!-- Blu-ray-Audio -->
+        <xsl:when test="$car = 'dn'">recording-hfpa</xsl:when>
+        <!-- Daisy lydbok -->
+        <xsl:when test="$car = 'dy'">recording-daisy</xsl:when>
+        <!-- mp3 lydfil -->
+        <xsl:when test="$car = 'dz'">recording-mp3</xsl:when>
         <!-- Film -->
         <xsl:when test="$car = 'e'">video</xsl:when>
         <!-- Filmspole -->
@@ -81,6 +91,8 @@
         <xsl:when test="$car = 'fi'">image-reproduction</xsl:when>
         <!-- Elektroniske ressurser -->
         <xsl:when test="$car = 'g'">electronic</xsl:when>
+        <!-- Nedlastbar fil -->
+        <xsl:when test="$car = 'ga'">electronic-download</xsl:when>
         <!-- Diskett -->
         <xsl:when test="$car = 'gb'">electronic-diskette</xsl:when>
         <!-- DVD-ROM -->
@@ -88,7 +100,7 @@
         <!-- CD-ROM (tidl.: optiske lagringsmedia) -->
         <xsl:when test="$car = 'gd'">electronic-cd</xsl:when>
         <!-- Nettressurser -->
-        <xsl:when test="$car = 'ge'">web</xsl:when>
+        <xsl:when test="$car = 'ge'">electronic-web</xsl:when>
         <!-- Lagringsbrikke -->
         <xsl:when test="$car = 'gf'">electronic-memorycard</xsl:when>
         <!-- Blu-ray ROM -->
@@ -113,6 +125,8 @@
         <xsl:when test="$car = 'k'">article</xsl:when>
         <!-- Fysiske bøker -->
         <xsl:when test="$car = 'l'">book</xsl:when>
+        <!-- E-bok -->
+        <xsl:when test="$car = 'la'">book-e-book</xsl:when>
         <!-- Dataspill (koden kan ikke brukes alene) -->
         <xsl:when test="$car = 'm'">game</xsl:when>
         <!-- PC-spill -->
@@ -131,6 +145,21 @@
         <xsl:when test="$car = 'mn'">game-ds</xsl:when>
         <!-- Nintendo Wii -->
         <xsl:when test="$car = 'mo'">game-wii</xsl:when>
+        <!-- Filformat -->
+        <xsl:when test="$car = 'n'">file</xsl:when>
+        <!-- PDF -->
+        <xsl:when test="$car = 'na'">file-pdf</xsl:when>
+        <!-- EPUB -->
+        <xsl:when test="$car = 'nb'">file-epub</xsl:when>
+        <!-- WMA -->
+        <xsl:when test="$car = 'nl'">file-wma</xsl:when>
+        <!-- WMV -->
+        <xsl:when test="$car = 'ns'">file-wmv</xsl:when>
+        <!-- DRM -->
+        <xsl:when test="$car = 'o'">drm</xsl:when>
+        <!-- Uautoriserte typer -->
+        <xsl:when test="$car = 'za'">braille</xsl:when>
+        <xsl:when test="$car = 'zb'">recording-sacd</xsl:when>
       </xsl:choose>
     </pz:metadata>
     <xsl:if test="$cdr != ''">
