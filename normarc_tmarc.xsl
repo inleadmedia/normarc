@@ -315,12 +315,6 @@
         </xsl:if>
       </xsl:for-each>
 
-      <xsl:for-each select="tmarc:d996">
-        <pz:metadata type="bibliofil-url">
-          <xsl:value-of select="tmarc:su"/>
-        </pz:metadata>
-      </xsl:for-each>
-
       <xsl:if test="string-length($oclc_number) &gt; 0">
         <pz:metadata type="oclc-number">
           <xsl:value-of select="$oclc_number"/>
