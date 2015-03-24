@@ -321,6 +321,12 @@
         </pz:metadata>
       </xsl:for-each>
 
+      <xsl:for-each select="tmarc:d740">
+        <pz:metadata type="track">
+          <xsl:value-of select="tmarc:sa"/>
+        </pz:metadata>
+      </xsl:for-each>
+
       <xsl:if test="string-length($oclc_number) &gt; 0">
         <pz:metadata type="oclc-number">
           <xsl:value-of select="$oclc_number"/>
@@ -887,7 +893,7 @@
         <pz:metadata type="circulation-status" empty="PAZPAR2_NULL_VALUE">
           <xsl:choose>
             <xsl:when test="tmarc:sh = '0'">Available</xsl:when>
-            <xsl:when test="tmarc:sh = '1'">ACirculation status undefined</xsl:when>
+            <xsl:when test="tmarc:sh = '1'">Circulation status undefined</xsl:when>
             <xsl:when test="tmarc:sh = '2'">On order</xsl:when>
             <xsl:when test="tmarc:sh = '3'">Not available; undefined</xsl:when>
             <xsl:when test="tmarc:sh = '4'">On loan</xsl:when>
