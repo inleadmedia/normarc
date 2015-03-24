@@ -632,7 +632,7 @@
           </xsl:for-each>
         </pz:metadata>
       </xsl:for-each>
-      <xsl:for-each select="tmarc:d600 | tmarc:d610 | tmarc:d611 | tmarc:d630 |                             tmarc:d640 | tmarc:d648 | tmarc:d650 | tmarc:d651 |                             tmarc:d653 | tmarc:d652 | tmarc:d654 | tmarc:d655 |                             tmarc:d656 | tmarc:d657 | tmarc:d658 | tmarc:d662 |                             tmarc:d69X">
+      <xsl:for-each select="tmarc:d600 | tmarc:d610 | tmarc:d611 | tmarc:d630 | tmarc:d640 | tmarc:d648 | tmarc:d650 | tmarc:d651 | tmarc:d653 | tmarc:d652 | tmarc:d654 | tmarc:d655 | tmarc:d656 | tmarc:d657 | tmarc:d658 | tmarc:d659 | tmarc:d662 | tmarc:d69X">
         <xsl:for-each select="tmarc:sa">
           <pz:metadata type="subject">
             <xsl:value-of select="."/>
